@@ -1,4 +1,4 @@
-![logo](https://github.com/vaibhavkumartiwari-cedcommerce/vaibhavkumartiwari-cedcommerce/blob/main/2.png)
+![logo](https://avatars.githubusercontent.com/u/47567613?v=4)
 <h1 align="center">Hi :wave:, I'm Vaibhav Kumar Tiwari</h1>
 <h3 align="center">A passionate frontend developer from India with 2 years of hands-on experience in crafting immersive digital experiences. :rocket: My skill set includes mastering the art of HTML, CSS, and JavaScript, while also wielding the power of ReactJS, TypeScript, Redux, and Redux Toolkit. :computer::sparkles: Join me on this journey of turning ideas into pixel-perfect realities and creating seamless, user-centric interfaces. Let's build the future of the web together! :globe_with_meridians::hammer_and_wrench: #FrontendDeveloper #ReactJS #TypeScript #Redux</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavkumartiwari-cedcommerce" alt="vaibhavkumartiwari-cedcommerce" /></a> </p>
